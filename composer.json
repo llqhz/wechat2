@@ -1,0 +1,16 @@
+{
+    "name": "llqhz/wechat2",
+    "description": "this is wxapp library",
+    "authors": [
+        {
+            "name": "llqhz",
+            "email": "llqhz@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "llqhz\\": 'src'
+        }
+    }
+}
